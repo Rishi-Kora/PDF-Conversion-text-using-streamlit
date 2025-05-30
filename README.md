@@ -1,4 +1,3 @@
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Rishi-Kora/PDF-Conversion-text-using-streamlit/ci.yml?branch=main)](https://github.com/Rishi-Kora/PDF-Conversion-text-using-streamlit/actions)
 [![Python Version](https://img.shields.io/badge/python-3.7%2C%203.8%2C%203.9-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-%E2%9C%93-green)](https://streamlit.io/)
 [![License](https://img.shields.io/github/license/Rishi-Kora/PDF-Conversion-text-using-streamlit)](LICENSE)
