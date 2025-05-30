@@ -5,8 +5,6 @@
 
 # PDF Conversion to Text using Streamlit
 
-# PDF Conversion to Text using Streamlit
-
 A simple Streamlit app to upload PDF files and convert them to plain text.  
 Ideal for quick extraction of text from reports, articles, or scanned documents.
 
